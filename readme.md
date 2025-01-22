@@ -34,6 +34,6 @@ int b =1 ;
 int c = a + b ;
 ```
 
-Use Ctrl + K for [Link](www.google.com)
+Use Ctrl + K for [Link](https://google.com)
 
 [This is nadhim link](###Nadhim-Heading)
