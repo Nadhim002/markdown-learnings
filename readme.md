@@ -39,4 +39,13 @@ Use Ctrl + K for [Link](https://google.com)
 [This is nadhim link](###Nadhim-Heading)\
 This is a [HTML](index.html) page
 
+- list01
+* list02
++ list 03
+
+ 1. Number01
+ 2. Number 02
+ 3. Number 02
+
+
 This is cat image ![cat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg)
