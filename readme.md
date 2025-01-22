@@ -1,5 +1,7 @@
 # Heading 1 
 
+### Nadhim Heading
+
 ## Heading 2 
 
 **Bold text**
@@ -32,6 +34,6 @@ int b =1 ;
 int c = a + b ;
 ```
 
-`#0969DA`
+Use Ctrl + K for [Link](www.google.com)
 
-This is a color in markdown `rgb(0,0,255)` `rgb(9, 105, 218)`
+[This is nadhim link](###Nadhim-Heading)
