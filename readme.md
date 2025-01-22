@@ -55,4 +55,7 @@ This is a [HTML](index.html) page
 - [ ] Task 02
 - [ ] Task 03
 
+This is a emoji innocent :innocent: emoji
+
+< !-- This is a comment it will not show > 
 ##### This is cat image ![cat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg)
