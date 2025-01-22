@@ -57,5 +57,35 @@ This is a [HTML](index.html) page
 
 This is a emoji innocent :innocent: emoji
 
-< !-- This is a comment it will not show > 
-##### This is cat image ![cat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg)
+<!-- This is a comment it will not show --> 
+
+<!-- This is cat image ![cat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg) -->
+
+### Alerts 
+
+>[!NOTE]
+>Note Alert
+
+>[!TIP]
+>Tip Alert
+
+>[!IMPORTANT]
+>Importtant alert
+
+>[!WARNING]
+>Warning Alert
+
+>[!CAUTION]
+>caution alert
+
+This is a sample foot note[^1].
+
+I'm nadhim [^2].
+
+[^1]: Reference
+[^2]: Human
+
+
+
+
+
